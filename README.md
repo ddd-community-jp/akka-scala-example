@@ -1,5 +1,13 @@
-akka-in-action
-==============
+# akka-scala-example
+Akka実践バイブルのサンプルをモブで実装する
+
+本家のGithubのリポジトリをコピーしたものです。本来はForkすべきなんですが、後からCloneしたため、コピーPushしました。
+
+- [本家のGithubのリポジトリ](https://github.com/akka-ja/akka-in-action)
+
+Licenseなども全て本家に準じます。勉強会での追記など気付きを追記します。
+
+----
 
 [![Build Status](https://travis-ci.org/akka-ja/akka-in-action.svg?branch=master)](https://travis-ci.org/akka-ja/akka-in-action)
 
@@ -27,3 +35,4 @@ Akka実践バイブルのサンプルコード
 | 第16章　パフォーマンスTips                      | [chapter-perf](./chapter-perf)                             |
 | 第17章　Akkaのこれから                          | [chapter-looking-ahead](./chapter-looking-ahead)           |
 | 付録　AkkaをJavaから使う                        | [chapter-java](./chapter-java)                             |
+
